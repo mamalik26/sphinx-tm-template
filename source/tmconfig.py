@@ -1,8 +1,8 @@
 class TMConfig:
 
     title = u'Titre du TM'
-    first_name = 'Prénom'
-    last_name = 'Nom'
+    first_name = 'Malik'
+    last_name = 'Chebbi'
     author = f'{first_name} {last_name}'
     year = u'2022'
     month = u'Décembre'
